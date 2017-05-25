@@ -9,3 +9,4 @@ Bootstrap sample pages for testing themes and customizations.
 Your changes should show immediately upon browser refresh.
 
 Sample themes included in /dist (Cosmo, Cyborg, Journal, Readable) were downloaded from https://bootswatch.com/.
+
